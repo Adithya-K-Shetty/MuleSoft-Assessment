@@ -93,8 +93,8 @@ def main():
         select_all_movies(conn)
 
          
-        print("2. Selecting Movie Name Based On Actor Name")
-        select_movie_by_actor_name(conn, 'Yash')
+        # print("2. Selecting Movie Name Based On Actor Name")
+        # select_movie_by_actor_name(conn, 'Yash')
         
 
 
