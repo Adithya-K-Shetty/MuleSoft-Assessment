@@ -89,7 +89,7 @@ def main():
         # insert_movie(conn,movie5)
         # insert_movie(conn,movie6)
 
-        print("1. Selecting All Movie Data")
+        print("1.Selecting All Movie Data")
         select_all_movies(conn)
 
          
